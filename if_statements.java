@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[] args) {
         double num1, num2;
         Scanner S1 = new Scanner(System.in);
-        /*System.out.print("Enter two numbers");
+        System.out.print("Enter two numbers");
         num1 = S1.nextInt();
         num2 = S1.nextInt();
         if (num1 >= num2)
@@ -18,9 +18,9 @@ public class Main {
             Ans = Math.pow(num1, 2);
         else
             Ans = num1 * 2;
-        System.out.println("Answer is " + Ans);*/
+        System.out.println("Answer is " + Ans);
 
-       /* double x, y;
+        double x, y;
 
         System.out.println("Enter a number");
         x = S1.nextDouble();
@@ -28,9 +28,9 @@ public class Main {
             y = (2 * x) + 1;
         else
             y = (2 * x) - 1;
-        System.out.println("y is " + y);*/
+        System.out.println("y is " + y);
 
-      /*  System.out.println("Enter a number");
+       System.out.println("Enter a number");
         num1 = S1.nextDouble();
         if (num1 >= 1 && num1 <= 10)
             System.out.println("Number is in group 1");
@@ -43,10 +43,10 @@ public class Main {
         else if (num1 > 40 && num1 <= 50)
             System.out.println("Number is in group 5");
         else
-            System.out.println("Number is out of order");*/
+            System.out.println("Number is out of order");
 
 
-       /* System.out.println("Enter a number");
+       System.out.println("Enter a number");
         num1 = S1.nextDouble();
         if (num1 == 1)
             System.out.println("Monday");
@@ -63,9 +63,9 @@ public class Main {
         else if (num1 == 7)
             System.out.println("Sunday");
         else
-            System.out.println("Not valid ");*/
+            System.out.println("Not valid ");
 
-      /*  String username, password;
+      String username, password;
         username = S1.next();
         password = S1.next();
         System.out.println("***************************************************\n" +
